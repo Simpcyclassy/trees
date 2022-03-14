@@ -18,6 +18,12 @@ if not specified (e.g. a call like `127.0.0.1:8000/`):
 Please tell me your favorite tree
 ```
 
+## Start Server
+
+```sh
+go run main.go
+```
+
 ## Call the service with CURL
 
 ```sh
